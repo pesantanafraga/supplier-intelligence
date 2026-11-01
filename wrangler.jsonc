@@ -1,0 +1,7 @@
+{
+  "name": "supplier-intelligence",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-06-01",
+  "keep_vars": true,
+  "assets": { "directory": "./public", "binding": "ASSETS" }
+}
